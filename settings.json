@@ -1,0 +1,62 @@
+{
+  "bot-account": {
+    "username": "NoobBoos",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "eliteplaymc.aternos.me",
+    "port": 32258,
+    "version": "1.12.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+
+      "messages": [
+        "Just finished building my house! 🏠",
+        "Need some food, anyone got extra bread? 🍞",
+        "Watch out for creepers around here! 💥",
+        "Mining for iron, hope I find some soon! ⛏️",
+        "Anyone know how to tame a wolf? 🐺",
+        "I’m thinking of exploring the Nether next. 🔥",
+        "Does anyone want to trade resources? 🤝",
+        "Crafting new armor today! ⚔️",
+        "Be careful, zombies are everywhere tonight. ☠️",
+        "I’m setting up a farm near spawn. 🌱",
+        "Why does the chicken cross the road? 😂",
+        "I swear I heard a ghast nearby... 😱",
+        "Anyone up for a building contest? 🏗️",
+        "Who wants to go fishing? 🎣",
+        "I lost my sword... again! 🙈",
+        "This place looks haunted... 👻",
+        "Let’s meet at the village square in 10 minutes."
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
