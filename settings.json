@@ -2,7 +2,7 @@
   "bot-account": {
     "username": "Cheat Detector",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
 
   "server": {
